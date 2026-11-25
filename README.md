@@ -1,2 +1,2 @@
-# to-do-react
+# todo-react
 todo app made with react/vite
